@@ -2,134 +2,345 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="05df9ab2-0ad8-4195-8ec9-54c0e812e6f8" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/web-api/vendor/github.com/astaxie/beego/CONTRIBUTING.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/web-api/vendor/github.com/astaxie/beego/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/web-api/vendor/github.com/astaxie/beego/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/web-api/vendor/github.com/astaxie/beego/admin.go" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/web-api/vendor/github.com/astaxie/beego/adminui.go" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/web-api/vendor/github.com/astaxie/beego/app.go" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/web-api/vendor/github.com/astaxie/beego/beego.go" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/web-api/vendor/github.com/astaxie/beego/cache/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/web-api/vendor/github.com/astaxie/beego/cache/cache.go" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/web-api/vendor/github.com/astaxie/beego/cache/conv.go" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/web-api/vendor/github.com/astaxie/beego/cache/file.go" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/web-api/vendor/github.com/astaxie/beego/cache/memory.go" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/web-api/vendor/github.com/astaxie/beego/config.go" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/web-api/vendor/github.com/astaxie/beego/config/config.go" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/web-api/vendor/github.com/astaxie/beego/config/fake.go" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/web-api/vendor/github.com/astaxie/beego/config/ini.go" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/web-api/vendor/github.com/astaxie/beego/config/json.go" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/web-api/vendor/github.com/astaxie/beego/context/acceptencoder.go" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/web-api/vendor/github.com/astaxie/beego/context/context.go" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/web-api/vendor/github.com/astaxie/beego/context/input.go" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/web-api/vendor/github.com/astaxie/beego/context/output.go" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/web-api/vendor/github.com/astaxie/beego/controller.go" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/web-api/vendor/github.com/astaxie/beego/doc.go" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/web-api/vendor/github.com/astaxie/beego/error.go" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/web-api/vendor/github.com/astaxie/beego/filter.go" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/web-api/vendor/github.com/astaxie/beego/flash.go" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/web-api/vendor/github.com/astaxie/beego/grace/conn.go" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/web-api/vendor/github.com/astaxie/beego/grace/grace.go" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/web-api/vendor/github.com/astaxie/beego/grace/listener.go" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/web-api/vendor/github.com/astaxie/beego/grace/server.go" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/web-api/vendor/github.com/astaxie/beego/hooks.go" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/web-api/vendor/github.com/astaxie/beego/log.go" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/web-api/vendor/github.com/astaxie/beego/logs/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/web-api/vendor/github.com/astaxie/beego/logs/color.go" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/web-api/vendor/github.com/astaxie/beego/logs/color_windows.go" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/web-api/vendor/github.com/astaxie/beego/logs/conn.go" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/web-api/vendor/github.com/astaxie/beego/logs/console.go" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/web-api/vendor/github.com/astaxie/beego/logs/file.go" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/web-api/vendor/github.com/astaxie/beego/logs/jianliao.go" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/web-api/vendor/github.com/astaxie/beego/logs/log.go" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/web-api/vendor/github.com/astaxie/beego/logs/logger.go" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/web-api/vendor/github.com/astaxie/beego/logs/multifile.go" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/web-api/vendor/github.com/astaxie/beego/logs/slack.go" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/web-api/vendor/github.com/astaxie/beego/logs/smtp.go" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/web-api/vendor/github.com/astaxie/beego/mime.go" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/web-api/vendor/github.com/astaxie/beego/namespace.go" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/web-api/vendor/github.com/astaxie/beego/orm/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/web-api/vendor/github.com/astaxie/beego/orm/cmd.go" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/web-api/vendor/github.com/astaxie/beego/orm/cmd_utils.go" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/web-api/vendor/github.com/astaxie/beego/orm/db.go" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/web-api/vendor/github.com/astaxie/beego/orm/db_alias.go" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/web-api/vendor/github.com/astaxie/beego/orm/db_mysql.go" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/web-api/vendor/github.com/astaxie/beego/orm/db_oracle.go" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/web-api/vendor/github.com/astaxie/beego/orm/db_postgres.go" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/web-api/vendor/github.com/astaxie/beego/orm/db_sqlite.go" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/web-api/vendor/github.com/astaxie/beego/orm/db_tables.go" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/web-api/vendor/github.com/astaxie/beego/orm/db_tidb.go" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/web-api/vendor/github.com/astaxie/beego/orm/db_utils.go" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/web-api/vendor/github.com/astaxie/beego/orm/models.go" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/web-api/vendor/github.com/astaxie/beego/orm/models_boot.go" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/web-api/vendor/github.com/astaxie/beego/orm/models_fields.go" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/web-api/vendor/github.com/astaxie/beego/orm/models_info_f.go" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/web-api/vendor/github.com/astaxie/beego/orm/models_info_m.go" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/web-api/vendor/github.com/astaxie/beego/orm/models_utils.go" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/web-api/vendor/github.com/astaxie/beego/orm/orm.go" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/web-api/vendor/github.com/astaxie/beego/orm/orm_conds.go" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/web-api/vendor/github.com/astaxie/beego/orm/orm_log.go" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/web-api/vendor/github.com/astaxie/beego/orm/orm_object.go" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/web-api/vendor/github.com/astaxie/beego/orm/orm_querym2m.go" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/web-api/vendor/github.com/astaxie/beego/orm/orm_queryset.go" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/web-api/vendor/github.com/astaxie/beego/orm/orm_raw.go" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/web-api/vendor/github.com/astaxie/beego/orm/qb.go" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/web-api/vendor/github.com/astaxie/beego/orm/qb_mysql.go" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/web-api/vendor/github.com/astaxie/beego/orm/qb_tidb.go" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/web-api/vendor/github.com/astaxie/beego/orm/types.go" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/web-api/vendor/github.com/astaxie/beego/orm/utils.go" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/web-api/vendor/github.com/astaxie/beego/parser.go" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/web-api/vendor/github.com/astaxie/beego/policy.go" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/web-api/vendor/github.com/astaxie/beego/router.go" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/web-api/vendor/github.com/astaxie/beego/session/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/web-api/vendor/github.com/astaxie/beego/session/sess_cookie.go" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/web-api/vendor/github.com/astaxie/beego/session/sess_file.go" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/web-api/vendor/github.com/astaxie/beego/session/sess_mem.go" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/web-api/vendor/github.com/astaxie/beego/session/sess_utils.go" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/web-api/vendor/github.com/astaxie/beego/session/session.go" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/web-api/vendor/github.com/astaxie/beego/staticfile.go" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/web-api/vendor/github.com/astaxie/beego/template.go" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/web-api/vendor/github.com/astaxie/beego/templatefunc.go" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/web-api/vendor/github.com/astaxie/beego/toolbox/healthcheck.go" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/web-api/vendor/github.com/astaxie/beego/toolbox/profile.go" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/web-api/vendor/github.com/astaxie/beego/toolbox/statistics.go" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/web-api/vendor/github.com/astaxie/beego/toolbox/task.go" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/web-api/vendor/github.com/astaxie/beego/tree.go" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/web-api/vendor/github.com/astaxie/beego/utils/caller.go" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/web-api/vendor/github.com/astaxie/beego/utils/debug.go" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/web-api/vendor/github.com/astaxie/beego/utils/file.go" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/web-api/vendor/github.com/astaxie/beego/utils/mail.go" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/web-api/vendor/github.com/astaxie/beego/utils/rand.go" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/web-api/vendor/github.com/astaxie/beego/utils/safemap.go" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/web-api/vendor/github.com/astaxie/beego/utils/slice.go" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/web-api/vendor/github.com/go-sql-driver/mysql/AUTHORS" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/web-api/vendor/github.com/go-sql-driver/mysql/CHANGELOG.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/web-api/vendor/github.com/go-sql-driver/mysql/CONTRIBUTING.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/web-api/vendor/github.com/go-sql-driver/mysql/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/web-api/vendor/github.com/go-sql-driver/mysql/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/web-api/vendor/github.com/go-sql-driver/mysql/appengine.go" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/web-api/vendor/github.com/go-sql-driver/mysql/buffer.go" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/web-api/vendor/github.com/go-sql-driver/mysql/collations.go" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/web-api/vendor/github.com/go-sql-driver/mysql/connection.go" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/web-api/vendor/github.com/go-sql-driver/mysql/const.go" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/web-api/vendor/github.com/go-sql-driver/mysql/driver.go" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/web-api/vendor/github.com/go-sql-driver/mysql/dsn.go" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/web-api/vendor/github.com/go-sql-driver/mysql/errors.go" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/web-api/vendor/github.com/go-sql-driver/mysql/infile.go" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/web-api/vendor/github.com/go-sql-driver/mysql/packets.go" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/web-api/vendor/github.com/go-sql-driver/mysql/result.go" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/web-api/vendor/github.com/go-sql-driver/mysql/rows.go" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/web-api/vendor/github.com/go-sql-driver/mysql/statement.go" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/web-api/vendor/github.com/go-sql-driver/mysql/transaction.go" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/web-api/vendor/github.com/go-sql-driver/mysql/utils.go" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/web-api/vendor/golang.org/x/net/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/web-api/vendor/golang.org/x/net/PATENTS" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/web-api/vendor/golang.org/x/net/websocket/client.go" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/web-api/vendor/golang.org/x/net/websocket/dial.go" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/web-api/vendor/golang.org/x/net/websocket/hybi.go" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/web-api/vendor/golang.org/x/net/websocket/server.go" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/web-api/vendor/golang.org/x/net/websocket/websocket.go" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-api/conf/app.conf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-api/controllers/object.go" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-api/controllers/user.go" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-api/lastupdate.tmp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-api/main.go" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-api/models/object.go" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-api/models/user.go" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-api/routers/commentsRouter_controllers.go" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-api/routers/router.go" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-api/tests/default_test.go" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-api/vendor/github.com/astaxie/beego/CONTRIBUTING.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-api/vendor/github.com/astaxie/beego/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-api/vendor/github.com/astaxie/beego/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-api/vendor/github.com/astaxie/beego/admin.go" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-api/vendor/github.com/astaxie/beego/adminui.go" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-api/vendor/github.com/astaxie/beego/app.go" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-api/vendor/github.com/astaxie/beego/beego.go" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-api/vendor/github.com/astaxie/beego/cache/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-api/vendor/github.com/astaxie/beego/cache/cache.go" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-api/vendor/github.com/astaxie/beego/cache/conv.go" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-api/vendor/github.com/astaxie/beego/cache/file.go" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-api/vendor/github.com/astaxie/beego/cache/memory.go" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-api/vendor/github.com/astaxie/beego/config.go" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-api/vendor/github.com/astaxie/beego/config/config.go" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-api/vendor/github.com/astaxie/beego/config/fake.go" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-api/vendor/github.com/astaxie/beego/config/ini.go" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-api/vendor/github.com/astaxie/beego/config/json.go" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-api/vendor/github.com/astaxie/beego/context/acceptencoder.go" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-api/vendor/github.com/astaxie/beego/context/context.go" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-api/vendor/github.com/astaxie/beego/context/input.go" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-api/vendor/github.com/astaxie/beego/context/output.go" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-api/vendor/github.com/astaxie/beego/controller.go" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-api/vendor/github.com/astaxie/beego/doc.go" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-api/vendor/github.com/astaxie/beego/error.go" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-api/vendor/github.com/astaxie/beego/filter.go" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-api/vendor/github.com/astaxie/beego/flash.go" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-api/vendor/github.com/astaxie/beego/grace/conn.go" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-api/vendor/github.com/astaxie/beego/grace/grace.go" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-api/vendor/github.com/astaxie/beego/grace/listener.go" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-api/vendor/github.com/astaxie/beego/grace/server.go" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-api/vendor/github.com/astaxie/beego/hooks.go" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-api/vendor/github.com/astaxie/beego/log.go" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-api/vendor/github.com/astaxie/beego/logs/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-api/vendor/github.com/astaxie/beego/logs/color.go" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-api/vendor/github.com/astaxie/beego/logs/color_windows.go" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-api/vendor/github.com/astaxie/beego/logs/conn.go" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-api/vendor/github.com/astaxie/beego/logs/console.go" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-api/vendor/github.com/astaxie/beego/logs/file.go" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-api/vendor/github.com/astaxie/beego/logs/jianliao.go" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-api/vendor/github.com/astaxie/beego/logs/log.go" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-api/vendor/github.com/astaxie/beego/logs/logger.go" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-api/vendor/github.com/astaxie/beego/logs/multifile.go" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-api/vendor/github.com/astaxie/beego/logs/slack.go" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-api/vendor/github.com/astaxie/beego/logs/smtp.go" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-api/vendor/github.com/astaxie/beego/mime.go" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-api/vendor/github.com/astaxie/beego/namespace.go" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-api/vendor/github.com/astaxie/beego/orm/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-api/vendor/github.com/astaxie/beego/orm/cmd.go" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-api/vendor/github.com/astaxie/beego/orm/cmd_utils.go" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-api/vendor/github.com/astaxie/beego/orm/db.go" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-api/vendor/github.com/astaxie/beego/orm/db_alias.go" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-api/vendor/github.com/astaxie/beego/orm/db_mysql.go" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-api/vendor/github.com/astaxie/beego/orm/db_oracle.go" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-api/vendor/github.com/astaxie/beego/orm/db_postgres.go" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-api/vendor/github.com/astaxie/beego/orm/db_sqlite.go" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-api/vendor/github.com/astaxie/beego/orm/db_tables.go" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-api/vendor/github.com/astaxie/beego/orm/db_tidb.go" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-api/vendor/github.com/astaxie/beego/orm/db_utils.go" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-api/vendor/github.com/astaxie/beego/orm/models.go" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-api/vendor/github.com/astaxie/beego/orm/models_boot.go" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-api/vendor/github.com/astaxie/beego/orm/models_fields.go" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-api/vendor/github.com/astaxie/beego/orm/models_info_f.go" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-api/vendor/github.com/astaxie/beego/orm/models_info_m.go" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-api/vendor/github.com/astaxie/beego/orm/models_utils.go" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-api/vendor/github.com/astaxie/beego/orm/orm.go" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-api/vendor/github.com/astaxie/beego/orm/orm_conds.go" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-api/vendor/github.com/astaxie/beego/orm/orm_log.go" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-api/vendor/github.com/astaxie/beego/orm/orm_object.go" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-api/vendor/github.com/astaxie/beego/orm/orm_querym2m.go" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-api/vendor/github.com/astaxie/beego/orm/orm_queryset.go" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-api/vendor/github.com/astaxie/beego/orm/orm_raw.go" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-api/vendor/github.com/astaxie/beego/orm/qb.go" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-api/vendor/github.com/astaxie/beego/orm/qb_mysql.go" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-api/vendor/github.com/astaxie/beego/orm/qb_tidb.go" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-api/vendor/github.com/astaxie/beego/orm/types.go" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-api/vendor/github.com/astaxie/beego/orm/utils.go" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-api/vendor/github.com/astaxie/beego/parser.go" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-api/vendor/github.com/astaxie/beego/policy.go" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-api/vendor/github.com/astaxie/beego/router.go" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-api/vendor/github.com/astaxie/beego/session/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-api/vendor/github.com/astaxie/beego/session/sess_cookie.go" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-api/vendor/github.com/astaxie/beego/session/sess_file.go" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-api/vendor/github.com/astaxie/beego/session/sess_mem.go" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-api/vendor/github.com/astaxie/beego/session/sess_utils.go" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-api/vendor/github.com/astaxie/beego/session/session.go" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-api/vendor/github.com/astaxie/beego/staticfile.go" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-api/vendor/github.com/astaxie/beego/template.go" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-api/vendor/github.com/astaxie/beego/templatefunc.go" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-api/vendor/github.com/astaxie/beego/toolbox/healthcheck.go" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-api/vendor/github.com/astaxie/beego/toolbox/profile.go" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-api/vendor/github.com/astaxie/beego/toolbox/statistics.go" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-api/vendor/github.com/astaxie/beego/toolbox/task.go" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-api/vendor/github.com/astaxie/beego/tree.go" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-api/vendor/github.com/astaxie/beego/utils/caller.go" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-api/vendor/github.com/astaxie/beego/utils/debug.go" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-api/vendor/github.com/astaxie/beego/utils/file.go" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-api/vendor/github.com/astaxie/beego/utils/mail.go" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-api/vendor/github.com/astaxie/beego/utils/rand.go" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-api/vendor/github.com/astaxie/beego/utils/safemap.go" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-api/vendor/github.com/astaxie/beego/utils/slice.go" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-api/vendor/github.com/go-sql-driver/mysql/AUTHORS" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-api/vendor/github.com/go-sql-driver/mysql/CHANGELOG.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-api/vendor/github.com/go-sql-driver/mysql/CONTRIBUTING.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-api/vendor/github.com/go-sql-driver/mysql/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-api/vendor/github.com/go-sql-driver/mysql/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-api/vendor/github.com/go-sql-driver/mysql/appengine.go" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-api/vendor/github.com/go-sql-driver/mysql/buffer.go" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-api/vendor/github.com/go-sql-driver/mysql/collations.go" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-api/vendor/github.com/go-sql-driver/mysql/connection.go" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-api/vendor/github.com/go-sql-driver/mysql/const.go" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-api/vendor/github.com/go-sql-driver/mysql/driver.go" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-api/vendor/github.com/go-sql-driver/mysql/dsn.go" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-api/vendor/github.com/go-sql-driver/mysql/errors.go" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-api/vendor/github.com/go-sql-driver/mysql/infile.go" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-api/vendor/github.com/go-sql-driver/mysql/packets.go" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-api/vendor/github.com/go-sql-driver/mysql/result.go" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-api/vendor/github.com/go-sql-driver/mysql/rows.go" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-api/vendor/github.com/go-sql-driver/mysql/statement.go" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-api/vendor/github.com/go-sql-driver/mysql/transaction.go" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-api/vendor/github.com/go-sql-driver/mysql/utils.go" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-api/vendor/golang.org/x/net/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-api/vendor/golang.org/x/net/PATENTS" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-api/vendor/golang.org/x/net/websocket/client.go" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-api/vendor/golang.org/x/net/websocket/dial.go" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-api/vendor/golang.org/x/net/websocket/hybi.go" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-api/vendor/golang.org/x/net/websocket/server.go" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-api/vendor/golang.org/x/net/websocket/websocket.go" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pkg/windows_amd64/github.com/astaxie/beego.a" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pkg/windows_amd64/github.com/astaxie/beego/config.a" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pkg/windows_amd64/github.com/astaxie/beego/context.a" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pkg/windows_amd64/github.com/astaxie/beego/context/param.a" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pkg/windows_amd64/github.com/astaxie/beego/grace.a" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pkg/windows_amd64/github.com/astaxie/beego/logs.a" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pkg/windows_amd64/github.com/astaxie/beego/session.a" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pkg/windows_amd64/github.com/astaxie/beego/toolbox.a" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pkg/windows_amd64/github.com/astaxie/beego/utils.a" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pkg/windows_amd64/github.com/beego/bee/cmd.a" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pkg/windows_amd64/github.com/beego/bee/cmd/commands.a" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pkg/windows_amd64/github.com/beego/bee/cmd/commands/api.a" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pkg/windows_amd64/github.com/beego/bee/cmd/commands/bale.a" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pkg/windows_amd64/github.com/beego/bee/cmd/commands/beefix.a" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pkg/windows_amd64/github.com/beego/bee/cmd/commands/dlv.a" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pkg/windows_amd64/github.com/beego/bee/cmd/commands/dockerize.a" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pkg/windows_amd64/github.com/beego/bee/cmd/commands/generate.a" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pkg/windows_amd64/github.com/beego/bee/cmd/commands/hprose.a" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pkg/windows_amd64/github.com/beego/bee/cmd/commands/migrate.a" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pkg/windows_amd64/github.com/beego/bee/cmd/commands/new.a" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pkg/windows_amd64/github.com/beego/bee/cmd/commands/pack.a" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pkg/windows_amd64/github.com/beego/bee/cmd/commands/rs.a" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pkg/windows_amd64/github.com/beego/bee/cmd/commands/run.a" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pkg/windows_amd64/github.com/beego/bee/cmd/commands/server.a" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pkg/windows_amd64/github.com/beego/bee/cmd/commands/version.a" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pkg/windows_amd64/github.com/beego/bee/config.a" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pkg/windows_amd64/github.com/beego/bee/generate.a" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pkg/windows_amd64/github.com/beego/bee/generate/swaggergen.a" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pkg/windows_amd64/github.com/beego/bee/logger.a" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pkg/windows_amd64/github.com/beego/bee/logger/colors.a" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pkg/windows_amd64/github.com/beego/bee/utils.a" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pkg/windows_amd64/github.com/beego/bee/vendor/github.com/astaxie/beego/swagger.a" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pkg/windows_amd64/github.com/beego/bee/vendor/github.com/astaxie/beego/utils.a" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pkg/windows_amd64/github.com/beego/bee/vendor/github.com/derekparker/delve/config.a" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pkg/windows_amd64/github.com/beego/bee/vendor/github.com/derekparker/delve/dwarf/frame.a" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pkg/windows_amd64/github.com/beego/bee/vendor/github.com/derekparker/delve/dwarf/line.a" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pkg/windows_amd64/github.com/beego/bee/vendor/github.com/derekparker/delve/dwarf/op.a" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pkg/windows_amd64/github.com/beego/bee/vendor/github.com/derekparker/delve/dwarf/reader.a" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pkg/windows_amd64/github.com/beego/bee/vendor/github.com/derekparker/delve/dwarf/util.a" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pkg/windows_amd64/github.com/beego/bee/vendor/github.com/derekparker/delve/proc.a" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pkg/windows_amd64/github.com/beego/bee/vendor/github.com/derekparker/delve/service.a" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pkg/windows_amd64/github.com/beego/bee/vendor/github.com/derekparker/delve/service/api.a" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pkg/windows_amd64/github.com/beego/bee/vendor/github.com/derekparker/delve/service/debugger.a" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pkg/windows_amd64/github.com/beego/bee/vendor/github.com/derekparker/delve/service/rpc1.a" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pkg/windows_amd64/github.com/beego/bee/vendor/github.com/derekparker/delve/service/rpc2.a" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pkg/windows_amd64/github.com/beego/bee/vendor/github.com/derekparker/delve/service/rpccommon.a" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pkg/windows_amd64/github.com/beego/bee/vendor/github.com/derekparker/delve/terminal.a" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pkg/windows_amd64/github.com/beego/bee/vendor/github.com/derekparker/delve/version.a" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pkg/windows_amd64/github.com/beego/bee/vendor/github.com/fsnotify/fsnotify.a" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pkg/windows_amd64/github.com/beego/bee/vendor/github.com/go-sql-driver/mysql.a" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pkg/windows_amd64/github.com/beego/bee/vendor/github.com/gorilla/websocket.a" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pkg/windows_amd64/github.com/beego/bee/vendor/github.com/lib/pq.a" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pkg/windows_amd64/github.com/beego/bee/vendor/github.com/lib/pq/oid.a" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pkg/windows_amd64/github.com/beego/bee/vendor/github.com/mattn/go-colorable.a" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pkg/windows_amd64/github.com/beego/bee/vendor/github.com/mattn/go-isatty.a" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pkg/windows_amd64/github.com/beego/bee/vendor/github.com/peterh/liner.a" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pkg/windows_amd64/github.com/beego/bee/vendor/golang.org/x/debug/dwarf.a" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pkg/windows_amd64/github.com/beego/bee/vendor/golang.org/x/sys/windows.a" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pkg/windows_amd64/github.com/beego/bee/vendor/gopkg.in/yaml.v2.a" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pkg/windows_amd64/github.com/beego/bee/vendor/rsc.io/x86/x86asm.a" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pkg/windows_amd64/web-api/controllers.a" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pkg/windows_amd64/web-api/models.a" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pkg/windows_amd64/web-api/routers.a" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/github.com/astaxie/beego" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/github.com/beego/bee" afterPath="" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/web-api/conf/app.conf" afterPath="$PROJECT_DIR$/web-api/conf/app.conf" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/web-api/controllers/object.go" afterPath="$PROJECT_DIR$/web-api/controllers/object.go" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/web-api/controllers/user.go" afterPath="$PROJECT_DIR$/web-api/controllers/user.go" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/web-api/lastupdate.tmp" afterPath="$PROJECT_DIR$/web-api/lastupdate.tmp" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/web-api/main.go" afterPath="$PROJECT_DIR$/web-api/main.go" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/web-api/models/object.go" afterPath="$PROJECT_DIR$/web-api/models/object.go" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/web-api/models/user.go" afterPath="$PROJECT_DIR$/web-api/models/user.go" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/web-api/routers/commentsRouter_controllers.go" afterPath="$PROJECT_DIR$/web-api/routers/commentsRouter_controllers.go" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/web-api/routers/router.go" afterPath="$PROJECT_DIR$/web-api/routers/router.go" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/web-api/tests/default_test.go" afterPath="$PROJECT_DIR$/web-api/tests/default_test.go" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/web-api/vendor/github.com/astaxie/beego/CONTRIBUTING.md" afterPath="$PROJECT_DIR$/web-api/vendor/github.com/astaxie/beego/CONTRIBUTING.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/web-api/vendor/github.com/astaxie/beego/LICENSE" afterPath="$PROJECT_DIR$/web-api/vendor/github.com/astaxie/beego/LICENSE" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/web-api/vendor/github.com/astaxie/beego/README.md" afterPath="$PROJECT_DIR$/web-api/vendor/github.com/astaxie/beego/README.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/web-api/vendor/github.com/astaxie/beego/admin.go" afterPath="$PROJECT_DIR$/web-api/vendor/github.com/astaxie/beego/admin.go" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/web-api/vendor/github.com/astaxie/beego/adminui.go" afterPath="$PROJECT_DIR$/web-api/vendor/github.com/astaxie/beego/adminui.go" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/web-api/vendor/github.com/astaxie/beego/app.go" afterPath="$PROJECT_DIR$/web-api/vendor/github.com/astaxie/beego/app.go" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/web-api/vendor/github.com/astaxie/beego/beego.go" afterPath="$PROJECT_DIR$/web-api/vendor/github.com/astaxie/beego/beego.go" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/web-api/vendor/github.com/astaxie/beego/cache/README.md" afterPath="$PROJECT_DIR$/web-api/vendor/github.com/astaxie/beego/cache/README.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/web-api/vendor/github.com/astaxie/beego/cache/cache.go" afterPath="$PROJECT_DIR$/web-api/vendor/github.com/astaxie/beego/cache/cache.go" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/web-api/vendor/github.com/astaxie/beego/cache/conv.go" afterPath="$PROJECT_DIR$/web-api/vendor/github.com/astaxie/beego/cache/conv.go" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/web-api/vendor/github.com/astaxie/beego/cache/file.go" afterPath="$PROJECT_DIR$/web-api/vendor/github.com/astaxie/beego/cache/file.go" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/web-api/vendor/github.com/astaxie/beego/cache/memory.go" afterPath="$PROJECT_DIR$/web-api/vendor/github.com/astaxie/beego/cache/memory.go" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/web-api/vendor/github.com/astaxie/beego/config.go" afterPath="$PROJECT_DIR$/web-api/vendor/github.com/astaxie/beego/config.go" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/web-api/vendor/github.com/astaxie/beego/config/config.go" afterPath="$PROJECT_DIR$/web-api/vendor/github.com/astaxie/beego/config/config.go" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/web-api/vendor/github.com/astaxie/beego/config/fake.go" afterPath="$PROJECT_DIR$/web-api/vendor/github.com/astaxie/beego/config/fake.go" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/web-api/vendor/github.com/astaxie/beego/config/ini.go" afterPath="$PROJECT_DIR$/web-api/vendor/github.com/astaxie/beego/config/ini.go" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/web-api/vendor/github.com/astaxie/beego/config/json.go" afterPath="$PROJECT_DIR$/web-api/vendor/github.com/astaxie/beego/config/json.go" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/web-api/vendor/github.com/astaxie/beego/context/acceptencoder.go" afterPath="$PROJECT_DIR$/web-api/vendor/github.com/astaxie/beego/context/acceptencoder.go" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/web-api/vendor/github.com/astaxie/beego/context/context.go" afterPath="$PROJECT_DIR$/web-api/vendor/github.com/astaxie/beego/context/context.go" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/web-api/vendor/github.com/astaxie/beego/context/input.go" afterPath="$PROJECT_DIR$/web-api/vendor/github.com/astaxie/beego/context/input.go" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/web-api/vendor/github.com/astaxie/beego/context/output.go" afterPath="$PROJECT_DIR$/web-api/vendor/github.com/astaxie/beego/context/output.go" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/web-api/vendor/github.com/astaxie/beego/controller.go" afterPath="$PROJECT_DIR$/web-api/vendor/github.com/astaxie/beego/controller.go" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/web-api/vendor/github.com/astaxie/beego/doc.go" afterPath="$PROJECT_DIR$/web-api/vendor/github.com/astaxie/beego/doc.go" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/web-api/vendor/github.com/astaxie/beego/error.go" afterPath="$PROJECT_DIR$/web-api/vendor/github.com/astaxie/beego/error.go" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/web-api/vendor/github.com/astaxie/beego/filter.go" afterPath="$PROJECT_DIR$/web-api/vendor/github.com/astaxie/beego/filter.go" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/web-api/vendor/github.com/astaxie/beego/flash.go" afterPath="$PROJECT_DIR$/web-api/vendor/github.com/astaxie/beego/flash.go" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/web-api/vendor/github.com/astaxie/beego/grace/conn.go" afterPath="$PROJECT_DIR$/web-api/vendor/github.com/astaxie/beego/grace/conn.go" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/web-api/vendor/github.com/astaxie/beego/grace/grace.go" afterPath="$PROJECT_DIR$/web-api/vendor/github.com/astaxie/beego/grace/grace.go" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/web-api/vendor/github.com/astaxie/beego/grace/listener.go" afterPath="$PROJECT_DIR$/web-api/vendor/github.com/astaxie/beego/grace/listener.go" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/web-api/vendor/github.com/astaxie/beego/grace/server.go" afterPath="$PROJECT_DIR$/web-api/vendor/github.com/astaxie/beego/grace/server.go" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/web-api/vendor/github.com/astaxie/beego/hooks.go" afterPath="$PROJECT_DIR$/web-api/vendor/github.com/astaxie/beego/hooks.go" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/web-api/vendor/github.com/astaxie/beego/log.go" afterPath="$PROJECT_DIR$/web-api/vendor/github.com/astaxie/beego/log.go" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/web-api/vendor/github.com/astaxie/beego/logs/README.md" afterPath="$PROJECT_DIR$/web-api/vendor/github.com/astaxie/beego/logs/README.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/web-api/vendor/github.com/astaxie/beego/logs/color.go" afterPath="$PROJECT_DIR$/web-api/vendor/github.com/astaxie/beego/logs/color.go" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/web-api/vendor/github.com/astaxie/beego/logs/color_windows.go" afterPath="$PROJECT_DIR$/web-api/vendor/github.com/astaxie/beego/logs/color_windows.go" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/web-api/vendor/github.com/astaxie/beego/logs/conn.go" afterPath="$PROJECT_DIR$/web-api/vendor/github.com/astaxie/beego/logs/conn.go" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/web-api/vendor/github.com/astaxie/beego/logs/console.go" afterPath="$PROJECT_DIR$/web-api/vendor/github.com/astaxie/beego/logs/console.go" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/web-api/vendor/github.com/astaxie/beego/logs/file.go" afterPath="$PROJECT_DIR$/web-api/vendor/github.com/astaxie/beego/logs/file.go" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/web-api/vendor/github.com/astaxie/beego/logs/jianliao.go" afterPath="$PROJECT_DIR$/web-api/vendor/github.com/astaxie/beego/logs/jianliao.go" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/web-api/vendor/github.com/astaxie/beego/logs/log.go" afterPath="$PROJECT_DIR$/web-api/vendor/github.com/astaxie/beego/logs/log.go" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/web-api/vendor/github.com/astaxie/beego/logs/logger.go" afterPath="$PROJECT_DIR$/web-api/vendor/github.com/astaxie/beego/logs/logger.go" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/web-api/vendor/github.com/astaxie/beego/logs/multifile.go" afterPath="$PROJECT_DIR$/web-api/vendor/github.com/astaxie/beego/logs/multifile.go" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/web-api/vendor/github.com/astaxie/beego/logs/slack.go" afterPath="$PROJECT_DIR$/web-api/vendor/github.com/astaxie/beego/logs/slack.go" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/web-api/vendor/github.com/astaxie/beego/logs/smtp.go" afterPath="$PROJECT_DIR$/web-api/vendor/github.com/astaxie/beego/logs/smtp.go" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/web-api/vendor/github.com/astaxie/beego/mime.go" afterPath="$PROJECT_DIR$/web-api/vendor/github.com/astaxie/beego/mime.go" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/web-api/vendor/github.com/astaxie/beego/namespace.go" afterPath="$PROJECT_DIR$/web-api/vendor/github.com/astaxie/beego/namespace.go" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/web-api/vendor/github.com/astaxie/beego/orm/README.md" afterPath="$PROJECT_DIR$/web-api/vendor/github.com/astaxie/beego/orm/README.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/web-api/vendor/github.com/astaxie/beego/orm/cmd.go" afterPath="$PROJECT_DIR$/web-api/vendor/github.com/astaxie/beego/orm/cmd.go" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/web-api/vendor/github.com/astaxie/beego/orm/cmd_utils.go" afterPath="$PROJECT_DIR$/web-api/vendor/github.com/astaxie/beego/orm/cmd_utils.go" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/web-api/vendor/github.com/astaxie/beego/orm/db.go" afterPath="$PROJECT_DIR$/web-api/vendor/github.com/astaxie/beego/orm/db.go" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/web-api/vendor/github.com/astaxie/beego/orm/db_alias.go" afterPath="$PROJECT_DIR$/web-api/vendor/github.com/astaxie/beego/orm/db_alias.go" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/web-api/vendor/github.com/astaxie/beego/orm/db_mysql.go" afterPath="$PROJECT_DIR$/web-api/vendor/github.com/astaxie/beego/orm/db_mysql.go" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/web-api/vendor/github.com/astaxie/beego/orm/db_oracle.go" afterPath="$PROJECT_DIR$/web-api/vendor/github.com/astaxie/beego/orm/db_oracle.go" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/web-api/vendor/github.com/astaxie/beego/orm/db_postgres.go" afterPath="$PROJECT_DIR$/web-api/vendor/github.com/astaxie/beego/orm/db_postgres.go" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/web-api/vendor/github.com/astaxie/beego/orm/db_sqlite.go" afterPath="$PROJECT_DIR$/web-api/vendor/github.com/astaxie/beego/orm/db_sqlite.go" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/web-api/vendor/github.com/astaxie/beego/orm/db_tables.go" afterPath="$PROJECT_DIR$/web-api/vendor/github.com/astaxie/beego/orm/db_tables.go" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/web-api/vendor/github.com/astaxie/beego/orm/db_tidb.go" afterPath="$PROJECT_DIR$/web-api/vendor/github.com/astaxie/beego/orm/db_tidb.go" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/web-api/vendor/github.com/astaxie/beego/orm/db_utils.go" afterPath="$PROJECT_DIR$/web-api/vendor/github.com/astaxie/beego/orm/db_utils.go" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/web-api/vendor/github.com/astaxie/beego/orm/models.go" afterPath="$PROJECT_DIR$/web-api/vendor/github.com/astaxie/beego/orm/models.go" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/web-api/vendor/github.com/astaxie/beego/orm/models_boot.go" afterPath="$PROJECT_DIR$/web-api/vendor/github.com/astaxie/beego/orm/models_boot.go" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/web-api/vendor/github.com/astaxie/beego/orm/models_fields.go" afterPath="$PROJECT_DIR$/web-api/vendor/github.com/astaxie/beego/orm/models_fields.go" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/web-api/vendor/github.com/astaxie/beego/orm/models_info_f.go" afterPath="$PROJECT_DIR$/web-api/vendor/github.com/astaxie/beego/orm/models_info_f.go" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/web-api/vendor/github.com/astaxie/beego/orm/models_info_m.go" afterPath="$PROJECT_DIR$/web-api/vendor/github.com/astaxie/beego/orm/models_info_m.go" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/web-api/vendor/github.com/astaxie/beego/orm/models_utils.go" afterPath="$PROJECT_DIR$/web-api/vendor/github.com/astaxie/beego/orm/models_utils.go" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/web-api/vendor/github.com/astaxie/beego/orm/orm.go" afterPath="$PROJECT_DIR$/web-api/vendor/github.com/astaxie/beego/orm/orm.go" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/web-api/vendor/github.com/astaxie/beego/orm/orm_conds.go" afterPath="$PROJECT_DIR$/web-api/vendor/github.com/astaxie/beego/orm/orm_conds.go" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/web-api/vendor/github.com/astaxie/beego/orm/orm_log.go" afterPath="$PROJECT_DIR$/web-api/vendor/github.com/astaxie/beego/orm/orm_log.go" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/web-api/vendor/github.com/astaxie/beego/orm/orm_object.go" afterPath="$PROJECT_DIR$/web-api/vendor/github.com/astaxie/beego/orm/orm_object.go" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/web-api/vendor/github.com/astaxie/beego/orm/orm_querym2m.go" afterPath="$PROJECT_DIR$/web-api/vendor/github.com/astaxie/beego/orm/orm_querym2m.go" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/web-api/vendor/github.com/astaxie/beego/orm/orm_queryset.go" afterPath="$PROJECT_DIR$/web-api/vendor/github.com/astaxie/beego/orm/orm_queryset.go" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/web-api/vendor/github.com/astaxie/beego/orm/orm_raw.go" afterPath="$PROJECT_DIR$/web-api/vendor/github.com/astaxie/beego/orm/orm_raw.go" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/web-api/vendor/github.com/astaxie/beego/orm/qb.go" afterPath="$PROJECT_DIR$/web-api/vendor/github.com/astaxie/beego/orm/qb.go" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/web-api/vendor/github.com/astaxie/beego/orm/qb_mysql.go" afterPath="$PROJECT_DIR$/web-api/vendor/github.com/astaxie/beego/orm/qb_mysql.go" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/web-api/vendor/github.com/astaxie/beego/orm/qb_tidb.go" afterPath="$PROJECT_DIR$/web-api/vendor/github.com/astaxie/beego/orm/qb_tidb.go" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/web-api/vendor/github.com/astaxie/beego/orm/types.go" afterPath="$PROJECT_DIR$/web-api/vendor/github.com/astaxie/beego/orm/types.go" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/web-api/vendor/github.com/astaxie/beego/orm/utils.go" afterPath="$PROJECT_DIR$/web-api/vendor/github.com/astaxie/beego/orm/utils.go" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/web-api/vendor/github.com/astaxie/beego/parser.go" afterPath="$PROJECT_DIR$/web-api/vendor/github.com/astaxie/beego/parser.go" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/web-api/vendor/github.com/astaxie/beego/policy.go" afterPath="$PROJECT_DIR$/web-api/vendor/github.com/astaxie/beego/policy.go" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/web-api/vendor/github.com/astaxie/beego/router.go" afterPath="$PROJECT_DIR$/web-api/vendor/github.com/astaxie/beego/router.go" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/web-api/vendor/github.com/astaxie/beego/session/README.md" afterPath="$PROJECT_DIR$/web-api/vendor/github.com/astaxie/beego/session/README.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/web-api/vendor/github.com/astaxie/beego/session/sess_cookie.go" afterPath="$PROJECT_DIR$/web-api/vendor/github.com/astaxie/beego/session/sess_cookie.go" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/web-api/vendor/github.com/astaxie/beego/session/sess_file.go" afterPath="$PROJECT_DIR$/web-api/vendor/github.com/astaxie/beego/session/sess_file.go" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/web-api/vendor/github.com/astaxie/beego/session/sess_mem.go" afterPath="$PROJECT_DIR$/web-api/vendor/github.com/astaxie/beego/session/sess_mem.go" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/web-api/vendor/github.com/astaxie/beego/session/sess_utils.go" afterPath="$PROJECT_DIR$/web-api/vendor/github.com/astaxie/beego/session/sess_utils.go" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/web-api/vendor/github.com/astaxie/beego/session/session.go" afterPath="$PROJECT_DIR$/web-api/vendor/github.com/astaxie/beego/session/session.go" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/web-api/vendor/github.com/astaxie/beego/staticfile.go" afterPath="$PROJECT_DIR$/web-api/vendor/github.com/astaxie/beego/staticfile.go" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/web-api/vendor/github.com/astaxie/beego/template.go" afterPath="$PROJECT_DIR$/web-api/vendor/github.com/astaxie/beego/template.go" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/web-api/vendor/github.com/astaxie/beego/templatefunc.go" afterPath="$PROJECT_DIR$/web-api/vendor/github.com/astaxie/beego/templatefunc.go" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/web-api/vendor/github.com/astaxie/beego/toolbox/healthcheck.go" afterPath="$PROJECT_DIR$/web-api/vendor/github.com/astaxie/beego/toolbox/healthcheck.go" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/web-api/vendor/github.com/astaxie/beego/toolbox/profile.go" afterPath="$PROJECT_DIR$/web-api/vendor/github.com/astaxie/beego/toolbox/profile.go" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/web-api/vendor/github.com/astaxie/beego/toolbox/statistics.go" afterPath="$PROJECT_DIR$/web-api/vendor/github.com/astaxie/beego/toolbox/statistics.go" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/web-api/vendor/github.com/astaxie/beego/toolbox/task.go" afterPath="$PROJECT_DIR$/web-api/vendor/github.com/astaxie/beego/toolbox/task.go" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/web-api/vendor/github.com/astaxie/beego/tree.go" afterPath="$PROJECT_DIR$/web-api/vendor/github.com/astaxie/beego/tree.go" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/web-api/vendor/github.com/astaxie/beego/utils/caller.go" afterPath="$PROJECT_DIR$/web-api/vendor/github.com/astaxie/beego/utils/caller.go" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/web-api/vendor/github.com/astaxie/beego/utils/debug.go" afterPath="$PROJECT_DIR$/web-api/vendor/github.com/astaxie/beego/utils/debug.go" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/web-api/vendor/github.com/astaxie/beego/utils/file.go" afterPath="$PROJECT_DIR$/web-api/vendor/github.com/astaxie/beego/utils/file.go" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/web-api/vendor/github.com/astaxie/beego/utils/mail.go" afterPath="$PROJECT_DIR$/web-api/vendor/github.com/astaxie/beego/utils/mail.go" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/web-api/vendor/github.com/astaxie/beego/utils/rand.go" afterPath="$PROJECT_DIR$/web-api/vendor/github.com/astaxie/beego/utils/rand.go" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/web-api/vendor/github.com/astaxie/beego/utils/safemap.go" afterPath="$PROJECT_DIR$/web-api/vendor/github.com/astaxie/beego/utils/safemap.go" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/web-api/vendor/github.com/astaxie/beego/utils/slice.go" afterPath="$PROJECT_DIR$/web-api/vendor/github.com/astaxie/beego/utils/slice.go" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/web-api/vendor/github.com/go-sql-driver/mysql/AUTHORS" afterPath="$PROJECT_DIR$/web-api/vendor/github.com/go-sql-driver/mysql/AUTHORS" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/web-api/vendor/github.com/go-sql-driver/mysql/CHANGELOG.md" afterPath="$PROJECT_DIR$/web-api/vendor/github.com/go-sql-driver/mysql/CHANGELOG.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/web-api/vendor/github.com/go-sql-driver/mysql/CONTRIBUTING.md" afterPath="$PROJECT_DIR$/web-api/vendor/github.com/go-sql-driver/mysql/CONTRIBUTING.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/web-api/vendor/github.com/go-sql-driver/mysql/LICENSE" afterPath="$PROJECT_DIR$/web-api/vendor/github.com/go-sql-driver/mysql/LICENSE" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/web-api/vendor/github.com/go-sql-driver/mysql/README.md" afterPath="$PROJECT_DIR$/web-api/vendor/github.com/go-sql-driver/mysql/README.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/web-api/vendor/github.com/go-sql-driver/mysql/appengine.go" afterPath="$PROJECT_DIR$/web-api/vendor/github.com/go-sql-driver/mysql/appengine.go" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/web-api/vendor/github.com/go-sql-driver/mysql/buffer.go" afterPath="$PROJECT_DIR$/web-api/vendor/github.com/go-sql-driver/mysql/buffer.go" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/web-api/vendor/github.com/go-sql-driver/mysql/collations.go" afterPath="$PROJECT_DIR$/web-api/vendor/github.com/go-sql-driver/mysql/collations.go" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/web-api/vendor/github.com/go-sql-driver/mysql/connection.go" afterPath="$PROJECT_DIR$/web-api/vendor/github.com/go-sql-driver/mysql/connection.go" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/web-api/vendor/github.com/go-sql-driver/mysql/const.go" afterPath="$PROJECT_DIR$/web-api/vendor/github.com/go-sql-driver/mysql/const.go" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/web-api/vendor/github.com/go-sql-driver/mysql/driver.go" afterPath="$PROJECT_DIR$/web-api/vendor/github.com/go-sql-driver/mysql/driver.go" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/web-api/vendor/github.com/go-sql-driver/mysql/dsn.go" afterPath="$PROJECT_DIR$/web-api/vendor/github.com/go-sql-driver/mysql/dsn.go" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/web-api/vendor/github.com/go-sql-driver/mysql/errors.go" afterPath="$PROJECT_DIR$/web-api/vendor/github.com/go-sql-driver/mysql/errors.go" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/web-api/vendor/github.com/go-sql-driver/mysql/infile.go" afterPath="$PROJECT_DIR$/web-api/vendor/github.com/go-sql-driver/mysql/infile.go" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/web-api/vendor/github.com/go-sql-driver/mysql/packets.go" afterPath="$PROJECT_DIR$/web-api/vendor/github.com/go-sql-driver/mysql/packets.go" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/web-api/vendor/github.com/go-sql-driver/mysql/result.go" afterPath="$PROJECT_DIR$/web-api/vendor/github.com/go-sql-driver/mysql/result.go" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/web-api/vendor/github.com/go-sql-driver/mysql/rows.go" afterPath="$PROJECT_DIR$/web-api/vendor/github.com/go-sql-driver/mysql/rows.go" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/web-api/vendor/github.com/go-sql-driver/mysql/statement.go" afterPath="$PROJECT_DIR$/web-api/vendor/github.com/go-sql-driver/mysql/statement.go" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/web-api/vendor/github.com/go-sql-driver/mysql/transaction.go" afterPath="$PROJECT_DIR$/web-api/vendor/github.com/go-sql-driver/mysql/transaction.go" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/web-api/vendor/github.com/go-sql-driver/mysql/utils.go" afterPath="$PROJECT_DIR$/web-api/vendor/github.com/go-sql-driver/mysql/utils.go" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/web-api/vendor/golang.org/x/net/LICENSE" afterPath="$PROJECT_DIR$/web-api/vendor/golang.org/x/net/LICENSE" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/web-api/vendor/golang.org/x/net/PATENTS" afterPath="$PROJECT_DIR$/web-api/vendor/golang.org/x/net/PATENTS" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/web-api/vendor/golang.org/x/net/websocket/client.go" afterPath="$PROJECT_DIR$/web-api/vendor/golang.org/x/net/websocket/client.go" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/web-api/vendor/golang.org/x/net/websocket/dial.go" afterPath="$PROJECT_DIR$/web-api/vendor/golang.org/x/net/websocket/dial.go" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/web-api/vendor/golang.org/x/net/websocket/hybi.go" afterPath="$PROJECT_DIR$/web-api/vendor/golang.org/x/net/websocket/hybi.go" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/web-api/vendor/golang.org/x/net/websocket/server.go" afterPath="$PROJECT_DIR$/web-api/vendor/golang.org/x/net/websocket/server.go" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/web-api/vendor/golang.org/x/net/websocket/websocket.go" afterPath="$PROJECT_DIR$/web-api/vendor/golang.org/x/net/websocket/websocket.go" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -139,18 +350,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="main.go" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/web-api/main.go">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="84">
-              <caret line="4" column="0" lean-forward="true" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="GOROOT" path="C:\Go" />
   <component name="Git.Settings">
@@ -163,8 +363,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="779" />
-    <option name="y" value="165" />
+    <option name="x" value="900" />
+    <option name="y" value="79" />
     <option name="width" value="1940" />
     <option name="height" value="932" />
   </component>
@@ -195,7 +395,7 @@
             <path>
               <item name="Golang" type="b2602c69:ProjectViewProjectNode" />
               <item name="Golang" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="web-api" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -214,6 +414,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\GitHubFiles\Golang" />
       <recent name="E:\GitHubFiles\Golang\src\web-api" />
     </key>
   </component>
@@ -242,13 +443,13 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="779" y="165" width="1940" height="932" extended-state="0" />
+    <frame x="900" y="79" width="1940" height="932" extended-state="0" />
     <layout>
       <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20957446" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32914573" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32914573" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32914573" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -324,8 +525,24 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/web-api/main.go">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="84">
-          <caret line="4" column="0" lean-forward="true" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+        <state relative-caret-position="315">
+          <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web-api/conf/app.conf">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web-api/lastupdate.tmp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
